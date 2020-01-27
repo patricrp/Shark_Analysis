@@ -12,3 +12,5 @@ Procedimiento
 6. Cuento cuántos ataques ha habido por países.
 7. Filtro en USA los ataques en la zona de la costa oeste, en función de las Áreas que pertenecen a la costa oeste.
 8. Comparo con el número de ataques en otras zonas, donde destaca Florida, desmontando la hipótesis de que el mayor número de ataques a surfistas se produce en la costa oeste de USA.
+
+Hay un extra para intentar buscar aquellas actividades que pueden estar relacionadas con Surf, a través de Injury, si en este campo se indica que la tabla ha sido dañada.
